@@ -2,7 +2,7 @@
 
 Senior Full-Stack Engineer & Infrastructure Automator. 12 years of agency work for clients including Disney/ABC Press, NVIDIA, and the University of Pennsylvania. I work across the whole stack: frontend, backend, deployment, and the infrastructure underneath it all.
 
-Beyond agency work, I build and maintain a multi-host homelab environment running 48+ Docker containers across x86 and ARM hosts — Caddy reverse proxy with automatic TLS, CrowdSec intrusion prevention, a LiteLLM gateway routing all local and cloud LLM calls, Home Assistant with camera vision powered by local vision-language models, automated encrypted backups, and IoT automation. It's not a lab exercise. It's a production system my family depends on daily.
+Beyond agency work, I build and maintain a multi-host homelab environment running over 48+ Docker containers across x86 and ARM hosts - Caddy reverse proxy with automatic TLS, CrowdSec intrusion prevention, a LiteLLM gateway routing all local and cloud LLM calls, Custom camera vision pipeline powered by local vision-language models, automated encrypted backups, and IoT automation. It's not a lab exercise. It's a production system my family depends on daily.
 
 I'm strongest where the boundaries between disciplines blur: full-stack development that needs infrastructure awareness, DevOps that benefits from a developer's perspective, and systems work that requires understanding the whole stack.
 
